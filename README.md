@@ -8,6 +8,14 @@
 - 💻 I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`and `Google Contests`.
 - ✍🏻 I love using Software and new technologies to solve problems.
 - 📚 I am currently learning `Back-End Development`.
+- 🎯 I am looking for a `Back-End Development` internship.
+- 📄 My Resume
+<p align="center">
+    &emsp;
+    <a href="/Mohamed_Fathy_CV .pdf">
+        <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge" alt="Resume" />
+    </a>
+</p>
 - 📫 How to reach me
 <p align="center">
     &emsp;
@@ -23,6 +31,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
 </p>
+
 
 - My competitive programming profiles
 
