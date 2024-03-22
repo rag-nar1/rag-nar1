@@ -1,5 +1,6 @@
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=47F757&center=true&vCenter=true&random=false&width=435&lines=What's+up+%F0%9F%91%8B;I'am+Mohamed+Fathy+AKA+Ragnar;A+Back-end+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;And+a+Competitive+programmer+" alt="Typing SVG" /></a>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=47F757&center=true&vCenter=true&random=false&width=435&lines=What's+up+%F0%9F%91%8B;I'am+Mohamed+Fathy+AKA+Ragnar;A+Back-end+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;And+a+Competitive+programmer+" alt="Typing SVG" /></a>
+</p>
 
 ### About Me
 <!-- - 🏫 I am a junior student from [The Faculty of Computers & Informatics](https://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](https://suez.edu.eg/ar/) -->
