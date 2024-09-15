@@ -13,7 +13,7 @@
 - 📄 My Resume
 <p align="center">
     &emsp;
-    <a href="/Mohamed_Fathy_CV.pdf">
+    <a href="/Mohamed-Fathy_CV.pdf">
         <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge" alt="Resume" />
     </a>
 </p>
