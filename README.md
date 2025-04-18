@@ -4,16 +4,14 @@
 
 ### About Me
 <!-- - 🏫 I am a junior student from [The Faculty of Computers & Informatics](https://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](https://suez.edu.eg/ar/) -->
-- 🏫 I am a junior student from <a href="https://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa">`The Faculty of Computers & Informatics`</a> at <a class ="mylink" href="https://suez.edu.eg/ar/">`Suez Canal University`</a>.
+- 🏫 I am a senior student from <a href="https://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa">`The Faculty of Computers & Informatics`</a> at <a class ="mylink" href="https://suez.edu.eg/ar/">`Suez Canal University`</a>.
 
 - 💻 I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`and `Google Contests`.
-- ✍🏻 I love using Software and new technologies to solve problems.
-- 📚 I am currently learning `Back-End Development`.
-- 🎯 I am looking for a `Back-End Development` internship.
+- 📚 I am interested in all types of software, especially DBMSs and Back-end engineering 
 - 📄 My Resume
 <p align="center">
     &emsp;
-    <a href="/Mohamed-Fathy_CV.pdf">
+    <a href="/cv.pdf">
         <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge" alt="Resume" />
     </a>
 </p>
@@ -30,6 +28,10 @@
     &emsp;
     <a href="mailto:ragnar1242003@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    &emsp;
+    <a href="https://x.com/RAGNAR404_">
+         <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" alt="twitter logo"  />
     </a>
 </p>
 
@@ -49,71 +51,41 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming Languages
-<p align="center">
-    &emsp;
-    <a href="https://www.python.org/">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    </a>
-    &emsp;
-    <a href="https://www.java.com/">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    </a>
-    &emsp;
-    <a href="https://www.cplusplus.com/">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    </a>
-    &emsp;
-    <a href="https://www.javascript.com/">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    </a>
-    &emsp;
-    <a href="https://www.html.com/">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    </a>
-    &emsp;
-    <a href="https://www.w3schools.com/css/">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    </a>
-</p>
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming Languages and Technologies 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+</div>
+
+###
 
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Back-End Development
-<p align="center">
-    &emsp;
-    <a href="https://www.djangoproject.com/">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-    </a>
-    &emsp;
-    <a href="https://www.mysql.com/">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    </a>
-    &emsp;
-    <a href="https://www.postgresql.org/">
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    </a>
-    &emsp;
-    <!-- sqllite -->
-    <a href="https://www.sqlite.org/">
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-    </a>
-</p>
-
-
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width=5%> Operating Systems
-<p align="center">
-    &emsp;
-    <a href="https://www.microsoft.com/en-us/windows/">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-    </a>
-    &emsp;
-    <a href="https://www.linux.org/">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    </a>
-    &emsp;
-    <!-- ubuntu -->
-    <a href="https://ubuntu.com/">
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-    </a>
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rag-nar1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rag-nar1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
