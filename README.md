@@ -11,7 +11,7 @@
 - 📄 My Resume
 <p align="center">
     &emsp;
-    <a href="/cv.pdf">
+    <a href="/Mohamed_Fathy_Software_Engineer.pdf">
         <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge" alt="Resume" />
     </a>
 </p>
