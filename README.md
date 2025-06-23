@@ -18,15 +18,11 @@
 - 📫 How to reach me
 <p align="center">
     &emsp;
-    <a href="https://www.facebook.com/profile.php?id=100008314864542">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
-    &emsp;
     <a href="https://www.linkedin.com/in/mohamed-fathy-a7241424a/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &emsp;
-    <a href="mailto:ragnar1242003@gmail.com">
+    <a href="mailto:mohamedfathyisc@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     &emsp;
